@@ -1,5 +1,3 @@
-'use client'
-
 import Chevron from 'react-chevron';
 
 import { useState, ReactNode } from 'react';
