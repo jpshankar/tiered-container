@@ -4,7 +4,7 @@
   "description": "Reuseable component for presenting content in a tiered way.",
   "main": "src/TieredContainer.tsx",
   "scripts": {
-    "build": "tsup"
+    "build": "tsdown"
   },
   "peerDependencies": {
     "react": "19.3.0",
@@ -18,6 +18,6 @@
     "typescript": "^5.9.3"
   },
   "dependencies": {
-    "tsup": "^9.0.0"
+    "tsdown": "0.22.14"
   }
 }
